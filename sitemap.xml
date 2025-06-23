@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:msnbot="http://schemas.microsoft.com/msnbot/2008">
+
+    <!-- Página Inicial -->
+    <url>
+        <loc>https://www.nexoraonline.com.br/</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>
+            <image:loc>https://www.nexoraonline.com.br/assets/img/nexora_online_logo_top.svg</image:loc>
+            <image:title>Logo Nexora Online</image:title>
+        </image:image>
+    </url>
+
+    <!-- Seção Home -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#home</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>
+            <image:loc>https://www.nexoraonline.com.br/assets/img/img_banner_nexora_online.jpg</image:loc>
+            <image:title>Banner Principal Nexora Online</image:title>
+        </image:image>
+    </url>
+
+    <!-- Seção Categorias -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#collection</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+
+    <!-- Categoria Tecnologia Pessoal Produtividade  -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#TecnologiaPessoalProdutividade</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>
+<image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_TecnologiaPessoalProdutividade.jpg</image:loc>
+            <image:title>Tecnologia Pessoal e Produtividade</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categoria Casa Inteligente -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#CasaInteligente</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>         <image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_CasaInteligente.jpg</image:loc>
+            <image:title>Casa Inteligente</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categoria Automotivo e Mobilidade -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#AutomotivoMobilidade</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>            <image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_AutomotivoMobilidade.jpg</image:loc>
+            <image:title>Automotivo e Mobilidade</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categoria Ferramentas e Autonomia Profissional -->
+    <url>
+    <loc>https://www.nexoraonline.com.br#FerramentasAutonomiaProfissional</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>            <image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_FerramentasAutonomiaProfissional.jpg</image:loc>
+            <image:title>Ferramentas e Autonomia Profissional</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categoria Beleza e Autocuidado -->
+    <url>
+    <loc>https://www.nexoraonline.com.br#BelezaAutocuidado</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>            <image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_BelezaAutocuidado.jpg</image:loc>
+            <image:title>Beleza e Autocuidado</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categoria Home Office/Tecnologia de Escritório -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#HomeOfficeTecnologiaEscritório</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+        <image:image>            <image:loc>https://www.nexoraonline.com.br/assets/img/categorias/categoria_HomeOfficeTecnologiaEscritorio.jpg</image:loc>
+            <image:title>Home Office/Tecnologia de Escritório</image:title>
+        </image:image>
+    </url>
+
+    <!-- Seção de Contato -->
+    <url>
+        <loc>https://www.nexoraonline.com.br#contact</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+
+    <!-- Páginas de Informação -->
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#about</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#payment-methods</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#returns</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#delivery</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#faq</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#privacy-policy</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+    <url>
+        <loc>https://www.nexoraonline.com.br/information.html#terms</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <msnbot:robotsOption>index, follow</msnbot:robotsOption>
+    </url>
+
+</urlset>

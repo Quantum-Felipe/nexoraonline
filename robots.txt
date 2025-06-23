@@ -1,0 +1,101 @@
+# robots.txt Nexora Online E-commerce de Tecnologia
+
+# Configurações globais para todos os robôs
+User-agent: *
+
+# Permitir acesso às páginas principais
+Allow: /
+Allow: /index.html
+Allow: /information.html
+
+# Permitir acesso às seções principais
+Allow: /#home
+Allow: /#sellers
+Allow: /#collection
+Allow: /#contact
+
+# Permitir acesso às categorias de produtos reais
+Allow: /#hardware
+Allow: /#acessoriosDeCelular
+Allow: /#gadgets
+Allow: /#accessories
+Allow: /#networks
+Allow: /#companies
+
+# Permitir acesso às seções de informação
+Allow: /information.html#about
+Allow: /information.html#payment-methods
+Allow: /information.html#returns
+Allow: /information.html#delivery
+Allow: /information.html#faq
+Allow: /information.html#privacy-policy
+Allow: /information.html#terms
+
+# Permitir acesso aos recursos estáticos
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+
+# Bloquear URLs potencialmente problemáticas
+Disallow: /*?*
+Disallow: /*&*
+Disallow: /temp/
+Disallow: /backup/
+
+# Bloquear acesso a áreas administrativas
+Disallow: /admin/
+Disallow: /login/
+Disallow: /checkout/
+Disallow: /cart/
+
+# Configurações específicas para o Googlebot
+User-agent: Googlebot
+Crawl-delay: 1
+
+# Configurações para imagens do Google
+User-agent: Googlebot-Image
+Allow: /assets/img/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+# Configurações para recursos do Google Ads
+User-agent: AdsBot-Google
+Allow: /*.css$
+Allow: /*.js$
+
+# Configurações específicas para o Bing
+User-agent: Bingbot
+Crawl-delay: 2
+Allow: /
+Allow: /index.html
+Allow: /information.html
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+
+# Configurações para imagens do Bing
+User-agent: msnbot-media
+Allow: /assets/img/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+# Configurações para MSN
+User-agent: msnbot
+Crawl-delay: 2
+Allow: /
+Allow: /index.html
+Allow: /information.html
+
+# Sitemaps
+Sitemap: https://www.nexoraonline.com.br/sitemap.xml
+
+# Regras específicas para IndexNow (Bing/Yandex)
+Allow: /*.xml$
